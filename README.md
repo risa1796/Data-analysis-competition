@@ -1,5 +1,7 @@
 # data-visualization-competition
 
+<img src="https://img.shields.io/badge/QGIS-3776AB?"/> <img src="https://img.shields.io/badge/KMeans-1776AB?"/> <img src="https://img.shields.io/badge/Clustering-3776AB?"/>
+
 2022년 데이터안심구역에서 개최한 경진대회에서 최우수상을 받은 프로젝트 입니다. 
 하단 이미지를 클릭하여 발표자료를 확인할 수 있습니다.
 
