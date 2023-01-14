@@ -1,4 +1,4 @@
-# 🥈 Data analysis Competition
+# 🥈 Data analysis contest
 
 <img src="https://img.shields.io/badge/QGIS-3776AB?"/> <img src="https://img.shields.io/badge/KMeans-1776AB?"/> <img src="https://img.shields.io/badge/Clustering-3776AB?"/>
 
